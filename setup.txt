@@ -15,3 +15,7 @@ git add .
 
 git commit -m "test Commit"
 git push -u origin master
+
+//////////////////////
+
+git pull https://github.com/sayedgig/MyReads.git
