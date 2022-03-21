@@ -1,1 +1,17 @@
-hello 
+myToken
+
+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
+
+
+git remote add origin https://github.com/sayedgig/MyReads.git
+
+
+git config --global github.user sayedgig
+git config --global github.token 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
+git config --global user.email sayedgig@gig.com
+
+
+git add .
+
+git commit -m "test Commit"
+git push -u origin master
